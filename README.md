@@ -312,11 +312,6 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 
 ---
 
-## Contact & Support
-
-- **Issues**: Open a GitHub issue
-- **Security Concerns**: security@migrantnav.org
-- **General Inquiries**: info@migrantnav.org
 
 ---
 
